@@ -1,1 +1,1 @@
-# lear-git
+# learn-git
